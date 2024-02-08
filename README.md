@@ -69,4 +69,5 @@
 
 ### Follow Me
 
-[![Linkedin Badge](https://www.linkedin.com/in/ranveer-singh-chauhan-921681253/) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Kishan%20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan0725/)](https://www.linkedin.com/in/ranveer-singh-chauhan-921681253/) [![Instagram Badge](https://img.shields.io/badge/-@kishan__07__25-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/kishan_07_25)](#) 
