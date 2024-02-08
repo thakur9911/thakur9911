@@ -66,8 +66,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan0725&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
-
-### Follow Me
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-RANVEER%SINGH20Lal-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan0725/)](https://www.linkedin.com/in/ranveer-singh-chauhan-921681253/) [![Instagram Badge](https://img.shields.io/badge/-@kishan__07__25-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/kishan_07_25)](#) 
