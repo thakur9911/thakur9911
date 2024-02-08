@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href = "https://github.com/thakur9911">
-<img src="https://github-readme-stats.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=thakur9911&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
  
